@@ -1,11 +1,18 @@
-## 👋 About Me
+## 👋 About Me  
 
-I'm an Electrical Engineering student at DTU with a passion for hands-on technology and embedded systems. My skills include:
+I'm a 3rd-semester Electrical Engineering student at DTU with a passion for embedded systems and hands-on hardware development.  
+I enjoy taking ideas from concept to working prototypes, whether it's firmware, PCB design, or full product integration.  
 
-- **3D Modeling:** Proficient in Fusion 360 for CAD and rapid prototyping  
-- **Embedded Programming:** Experienced in C, with a focus on embedded C for AVR microcontrollers (ATmega2560)  
-- **FPGA Development:** Skilled in FPGA design and programming, primarily using Xilinx ISE  
-- **Virtualization:** Comfortable setting up and managing Ubuntu virtual machines with VirtualBox  
-- **FPV Drones:** I design and build my own FPV racing quadcopters  
+### **Skills & Interests**  
+- **Embedded Programming:** C and Embedded C for AVR microcontrollers (ATmega2560), UART, I2C, ADC, and interrupt-driven systems  
+- **PCB Design:** KiCad for schematic design and PCB layout, including creating custom footprints for ICs and other components  
+- **FPGA Development:** Digital hardware design and simulation using Xilinx ISE  
+- **3D Modeling:** Fusion 360 for custom parts and rapid prototyping  
+- **Wireless & IoT Projects:** Raspberry Pi-based Wi-Fi audio systems and custom smart devices  
+- **FPV Racing Drones:** Designing and building drones from 3D-printed canopies to troubleshooting hardware and firmware issues  
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/mads-rudolph-65103a178/)!
+---
+
+📌 **Check out my pinned repositories** for examples of my work, including microcontroller projects, PCB designs, and embedded systems experiments.  
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mads-rudolph-65103a178/)  
