@@ -12,6 +12,40 @@ I enjoy taking ideas from concept to working prototypes, whether it's firmware, 
 - **FPV Racing Drones:** Designing and building drones from 3D-printed canopies to troubleshooting hardware and firmware issues  
 
 ---
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=700&lines=3rd-sem+EE+@+DTU;Embedded+systems+enjoyer;PCB+%2B+FPGA+%2B+firmware+in+the+loop;DSP+survivor+arc"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MadsRudolph&show_icons=true&rank_icon=github&include_all_commits=true"
+    alt="GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=MadsRudolph"
+    alt="GitHub streak"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadsRudolph&layout=compact&langs_count=8"
+    alt="Top languages"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=MadsRudolph&row=1&column=6"
+    alt="Trophies"
+  />
+</p>
 
 📌 **Check out my pinned repositories** for examples of my work, including microcontroller projects, PCB designs, and embedded systems experiments.  
 
