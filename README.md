@@ -42,7 +42,7 @@ I enjoy taking ideas from concept to working prototypes, whether it's firmware, 
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=MadsRudolph&column=-1&v=2"
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=MadsRudolph&column=-1&v=2"
     alt="Trophies"
   />
 </p>
