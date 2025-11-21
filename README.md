@@ -42,11 +42,10 @@ I enjoy taking ideas from concept to working prototypes, whether it's firmware, 
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=MadsRudolph&theme=flat&no-frame=true&row=1&column=6&margin-w=8&v=1"
+    src="https://github-profile-trophy.vercel.app/?username=MadsRudolph&column=-1&v=2"
     alt="Trophies"
   />
 </p>
-
 
 📌 **Check out my pinned repositories** for examples of my work, including microcontroller projects, PCB designs, and embedded systems experiments.  
 
