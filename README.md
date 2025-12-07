@@ -49,12 +49,24 @@ Currently surviving DSP and building FPV drones on the side.
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadsRudolph&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=00000000" height="165" />
-  <img src="https://streak-stats.demolab.com?user=MadsRudolph&hide_border=true&background=00000000" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=MadsRudolph&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=MadsRudolph&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=default" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MadsRudolph&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=github_dark" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MadsRudolph&hide_border=true&theme=github-dark-blue" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MadsRudolph&hide_border=true&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=MadsRudolph&hide_border=true&theme=github-dark-blue" height="165" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadsRudolph&layout=compact&langs_count=8&hide_border=true&bg_color=00000000" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MadsRudolph&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MadsRudolph&layout=compact&langs_count=8&hide_border=true&theme=default" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MadsRudolph&layout=compact&langs_count=8&hide_border=true&theme=github_dark" height="150" />
+  </picture>
 </p>
 
 ---
