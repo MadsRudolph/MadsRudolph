@@ -1,19 +1,22 @@
   <p align="center">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Electrical+Engineering+%40+DTU;Embedded+Systems+%7C+Audio+Hardware;Electroacoustics+%7C+Power+Electronics;From+concept+to+working+prototype"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Electrical+Engineering+%40+DTU;Embedded+Systems+%7C+Digital+Design;Electroacoustics+%7C+Power+Electronics;From+concept+to+working+prototype"
       alt="Typing SVG"
     />
   </p>
 
   ## Hey, I'm Mads 👋
 
-  3rd-semester EE student at DTU specializing in analog/mixed-signal electronics and electroacoustics. I design hardware that actually works — from high-fidelity speaker systems to embedded controllers.
+  4th-semester EE student at DTU specializing in analog/mixed-signal electronics, power systems, and digital design. I design hardware that actually works — from high-fidelity speaker systems to FPGA-based controllers.
 
-  Currently surviving DSP, building audiophile-grade 3D-printed speakers, and flying FPV drones on weekends.
+  Currently deep-diving into power converters, writing VHDL, and maintaining my automated engineering second brain.
 
   ---
 
   ### 🎯 Current Projects
+
+  **DTU Engineering Second Brain** — My central knowledge base & automation framework
+  `Obsidian` · `Python Automation` · `VHDL` · `Control Theory` · `Electronics Design`
 
   **Illuminate 7Mk2 Speaker Build** — Designing & building a pair of 3D-printed 2-way bookshelf speakers
   `7" Dayton Audio Drivers` · `Passive Crossover Design` · `TPA3255 Class-D Amp` · `PLA Enclosures`
@@ -28,19 +31,19 @@
 
   **Hardware & Embedded**
   - C / Embedded C (AVR, ATmega2560)
+  - VHDL & FPGA Design (Vivado)
+  - KiCad 9.0 (Multi-layer PCBs, custom footprints)
   - UART, I2C, SPI, ADC, interrupts
-  - KiCad (schematics, PCB layout, custom footprints)
-  - Xilinx ISE (FPGA, digital logic)
 
   </td>
   <td width="50%">
 
-  **Audio & Power Electronics**
+  **Audio & Power**
   - Electroacoustics & transducer design
-  - Analog circuit design (op-amps, filters)
-  - Class-D amplifiers (TPA3255, switching regulators)
-  - Passive crossover networks
-  - MATLAB, Python (DSP, simulation)
+  - Power Electronics (Converters, Regulators)
+  - Analog circuit design & Linear Control
+  - Class-D amplifiers (TPA3255)
+  - MATLAB, Python (DSP, Control)
 
   </td>
   </tr>
@@ -50,15 +53,15 @@
   **Mechanical & Prototyping**
   - Fusion 360 (CAD modeling)
   - 3D printing (FDM, enclosures)
-  - Obsidian (technical documentation)
+  - Obsidian (Technical Documentation)
 
   </td>
   <td width="50%">
 
   **Software & Tools**
   - PlatformIO, VS Code
-  - Git version control
-  - LTspice (circuit simulation)
+  - Git / GitHub Actions
+  - LTspice (Circuit Simulation)
   - Audio measurement & tuning
 
   </td>
@@ -69,7 +72,7 @@
 
   ### 🔧 Current Interests
 
-  `Audio Hardware Design` · `FPV Racing Drones` · `Power Electronics` · `IoT & Wireless` · `Signal Processing`
+  `Audio Hardware Design` · `FPGA & Digital Systems` · `Power Electronics` · `Control Theory` · `Signal Processing`
 
   ---
 
