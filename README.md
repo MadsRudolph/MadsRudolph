@@ -18,6 +18,9 @@
   **DTU Engineering Second Brain** — My central knowledge base & automation framework
   `Obsidian` · `Python Automation` · `VHDL` · `Control Theory` · `Electronics Design`
 
+  **[IR Remote Wizard](https://github.com/MadsRudolph/ir-remote-wizard)** — Home Assistant add-on that auto-discovers IR codes and turns any ESP32 into a universal remote
+  `ESPHome` · `Home Assistant` · `FastAPI` · `Flipper-IRDB` · `Python`
+
   **Illuminate 7Mk2 Speaker Build** — Designing & building a pair of 3D-printed 2-way bookshelf speakers
   `7" Dayton Audio Drivers` · `Passive Crossover Design` · `TPA3255 Class-D Amp` · `PLA Enclosures`
 
@@ -59,6 +62,8 @@
   <td width="50%">
 
   **Software & Tools**
+  - Python, FastAPI
+  - ESPHome / Home Assistant
   - PlatformIO, VS Code
   - Git / GitHub Actions
   - LTspice (Circuit Simulation)
